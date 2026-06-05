@@ -1,4 +1,5 @@
 # NutriScan — AI Food Nutrition Analyzer
+LIVE DEMO => https://nutriscan-food-app.vercel.app
 
 ![NutriScan Screenshot](./public/screenshot.png)
 
